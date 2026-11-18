@@ -35,6 +35,8 @@ Drone and imagery practitioners who turn photos into orthomosaics and elevation 
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-project` | A first project: images in, orthomosaic out |
